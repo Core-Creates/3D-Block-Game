@@ -1,0 +1,3 @@
+rep "3D Block Avoider Game - Alpha@Core_Creates@cloud"
+  path "/"
+    smartbranch "/main"
